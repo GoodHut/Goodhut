@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📶 file:///android_asset/
+Mozilla/5.0 (Linux; Android 6.0; CRO-L22 Build/HUAWEICRO-L22; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Mobile Safari/537.36
+screen	320 * 570
+viewport	320 * 462
+pixel ratio	1.5
+os	android
+browser	android 6
+Eruda v2.3.3
 -->
