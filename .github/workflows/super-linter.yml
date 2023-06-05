@@ -1,0 +1,29 @@
+ดังนั้นโปรดอย่าลืมที่จะเปิดเผยเนื้อหาที่เปลี่ยนแปลงตามภาษาซึ่งมีหลายฐานรหัสของคุณ
+...
+#
+ อ่านแล้วปรับลักษณะการทำงานของมันให้ถูกต้องไฟล์นี้
+
+# https://github.cosuper-lintesuper-linteer-linter
+name: Lint Code Base
+
+on:
+  ผลักดัน:https://okx.com/join/7465402
+    สาขา: [   "https://okx.com/join/7465402"   ]
+  pull_request:
+    สาขา: [  "https://www.binance.info/en/activity/referral-entry/CPA?ref=CPA_00T7QS5Y3P"  ]
+jobs:
+  run-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ผู้ติดตามอย่าลืม git เพื่อรับรายการไฟล์ที่เปลี่ยนแปลงภายใน `super-linter` เจอกัน
+          ดึงความลึก: 0
+
+      - ชื่อ: Lint Code Base
+        ใช้: github/super-linter@v4
+        env:
+          VALIDATE_ALL_CODEBASE: false
+          DEFAULT_BRANCH: "main"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
